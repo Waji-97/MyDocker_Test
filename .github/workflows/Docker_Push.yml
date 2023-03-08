@@ -23,4 +23,4 @@ jobs:
           context: .
           file: Dockerfile
           push: true
-          tags: waji97/myrepo:latest
+          tags: waji97/testrepo:latest
